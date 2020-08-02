@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![asciicast](https://asciinema.org/a/42383.png)](https://asciinema.org/a/42383)
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 <p align="center">
   <img align="center" src="https://github.com/1uvu/1uvu/raw/master/developer.gif"/>
 </p>
