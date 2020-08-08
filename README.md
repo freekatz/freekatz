@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### Hello, I'm ZJH, I Luv U. 🤘
 
-> 区块链信徒，编程极客。
+> 区块链信徒，编程狂热者。
 
 - 个人网站: https://1uvu.com
