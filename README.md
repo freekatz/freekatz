@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ### Hello, I'm ZJH, I Luv U. 🤘
 
-> 区块链，编程。
+> 区块链，编程。![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme)
 
 - 网站: https://1uvu.com
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme)
