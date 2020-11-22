@@ -11,18 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 <p align="center">
   <img align="center" src="https://github.com/1uvu/1uvu/raw/master/developer.gif"/>
 </p>
 
 --- 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md) since 2020.09.09
----
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-> 联系方式（请首先注明来处和用意）
+### 联系方式（请首先注明来处和用意）
 
 - 网站: [1uvu.com](https://1uvu.com)
 - 电邮：[zjh98@vip.qq.com](mailto://zjh98@vip.qq.com)
@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 - 区块链技能：Fabric、Ethereum
 - 理论基础技能：形式化方法、计算理论、逻辑学、算法、离散数学
 - 其它技能：网络开发、调试与逆向、密码学
+
+![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
 
