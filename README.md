@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 > 专业信安，热爱编程，从事区块链技术和研究。
 > 
 > 进行智能合约差错相关研究，包括：合约安全，合约容错等。
-> 
-> 技能树：
-> - 语言：Golang、Node、Rust、Solidity、Python、Java、C
-> - 通用技能：爬虫、数据分析、软件工程、模糊测试、图网络
-> - 区块链技能：Fabric、Ethereum
-> - 理论基础技能：形式化方法、计算理论、逻辑学、算法、离散数学
-> - 其它技能：网络开发、调试与逆向、密码学
+
+### 技能树：
+- 语言：Golang、Node、Rust、Solidity、Python、Java、C
+- 通用技能：爬虫、数据分析、软件工程、模糊测试、图网络
+- 区块链技能：Fabric、Ethereum
+- 理论基础技能：形式化方法、计算理论、逻辑学、算法、离散数学
+- 其它技能：网络开发、调试与逆向、密码学
 
