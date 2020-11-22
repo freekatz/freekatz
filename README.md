@@ -29,14 +29,8 @@ Here are some ideas to get you started:
 - QQ: 2016969619
 - Wechat: 1uvu_zhang
 
-### Hello, I'm ZJH, I Luv U. 🤘
-
-> 专业信安，热爱编程，从事区块链技术和研究。
-> 
-> 进行智能合约差错相关研究，包括：合约安全，合约容错等。
-
 <div align="center">
-  <h3 align="center">
+  <h3>
   Hello, I'm ZJH, I Luv U. 🤘
   </h3>
   <p>
@@ -44,7 +38,7 @@ Here are some ideas to get you started:
 
   进行智能合约差错相关研究，包括：合约安全，合约容错等。
   </p>
-  </div>
+ </div>
 
 ### 技能树：
 - 语言：Golang、Node、Rust、Solidity、Python、Java、C
