@@ -35,6 +35,17 @@ Here are some ideas to get you started:
 > 
 > 进行智能合约差错相关研究，包括：合约安全，合约容错等。
 
+<div align="center">
+  <h3 align="center">
+  Hello, I'm ZJH, I Luv U. 🤘
+  </h3>
+  <p>
+  专业信安，热爱编程，从事区块链技术和研究。 
+
+  进行智能合约差错相关研究，包括：合约安全，合约容错等。
+  </p>
+  </div>
+
 ### 技能树：
 - 语言：Golang、Node、Rust、Solidity、Python、Java、C
 - 通用技能：爬虫、数据分析、软件工程、模糊测试、图网络
