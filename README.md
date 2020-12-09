@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 --- 
 -->
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
----
+<p align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
 
 ### 联系方式（请首先注明来处和用意）
 
