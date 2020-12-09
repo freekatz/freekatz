@@ -44,11 +44,11 @@ Here are some ideas to get you started:
  </div>
 
 ### 技能树：
-> ***_代表熟练或精通***，*_代表正在学习*，其它代表将要学习
-- 语言：*Golang*、*Node*、*Rust*、Solidity、***Python***、***Java***、***C***
+> ***_代表熟练或精通***，**_代表正在学习**，其它代表将要学习
+- 语言：**Golang**、**Node**、**Rust**、Solidity、***Python***、***Java***、***C***
 - 通用技能：***爬虫***、***数据分析***、***软件工程***、模糊测试、图网络
-- 区块链技能：*Fabric*、Ethereum
-- 理论基础技能：形式化方法、计算理论、*逻辑学*、*算法*、离散数学
+- 区块链技能：**Fabric**、Ethereum
+- 理论基础技能：形式化方法、计算理论、**逻辑学**、**算法**、离散数学
 - 其它技能：***网络开发***、***调试与逆向***、***密码学***
 
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
