@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   Hello, I'm ZJH, I Luv U. 🤘
   </h3>
   <p>
-  Graduated in Information Security，programming lover，now in Blockchain technology and its research.
+  Graduated in Information Security，programming lover，in Blockchain technology and its research.
 
-  And now focus on Smart Contract Faults, including Contract security and Fault-tolerance.
+  And now focus on Smart Contract Faults, including Contract **Security** and **Fault-Tolerance**.
   </p>
  </div>
 
