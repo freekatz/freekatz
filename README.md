@@ -37,14 +37,14 @@ Here are some ideas to get you started:
   Hello, I'm ZJH, I Luv U. 🤘
   </h3>
   <p>
-  Majoy in Information Security，programming lover，now in Blockchain technology and its research.
+  Graduated in Information Security，programming lover，now in Blockchain technology and its research.
 
-  And now intereted in Smart Contract Faults included: Contract security and Fault-tolerance.
+  And now focus on Smart Contract Faults, including Contract security and Fault-tolerance.
   </p>
  </div>
 
 ### Skill tree：
-> ***_is mastered***, **_is learning** and others is to learn
+> ***_is mastered***, **_is learning** and the others is to learn
 - Language: **Golang**, **Node**, **Rust**, Solidity, ***Python***, ***Java***, ***C***
 - General skills: ***Web crawler***, ***Data science***, ***Software engineer***, Fuzing, Graph network
 - Blockchain skills: **Fabric**, Ethereum
