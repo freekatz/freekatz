@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p>
 
-### 联系方式（请首先注明来处和用意）
+### Contact ways (Please state your origin and purpose firstly)
 
-- 网站: [1uvu.com](https://1uvu.com)
-- 电邮：[zjh98@vip.qq.com](mailto://zjh98@vip.qq.com)
+- Website: [1uvu.com](https://1uvu.com)
+- E-mail：[zjh98@vip.qq.com](mailto://zjh98@vip.qq.com)
 - QQ: 2016969619
 - Wechat: 1uvu_zhang
 
@@ -37,19 +37,19 @@ Here are some ideas to get you started:
   Hello, I'm ZJH, I Luv U. 🤘
   </h3>
   <p>
-  专业信安，热爱编程，从事区块链技术和研究。 
+  Majoy in Information Security，programming lover，now in Blockchain technology and its research.
 
-  进行智能合约差错相关研究，包括：合约安全，合约容错等。
+  And now intereted in Smart Contract Faults included: Contract security and Fault-tolerance.
   </p>
  </div>
 
-### 技能树：
-> ***_代表熟练或精通***，**_代表正在学习**，其它代表将要学习
-- 语言：**Golang**、**Node**、**Rust**、Solidity、***Python***、***Java***、***C***
-- 通用技能：***爬虫***、***数据分析***、***软件工程***、模糊测试、图网络
-- 区块链技能：**Fabric**、Ethereum
-- 理论基础技能：形式化方法、计算理论、**逻辑学**、**算法**、离散数学
-- 其它技能：***网络开发***、***调试与逆向***、***密码学***
+### Skill tree：
+> ***_is mastered***, **_is learning** and others is to learn
+- Language: **Golang**, **Node**, **Rust**, Solidity, ***Python***, ***Java***, ***C***
+- General skills: ***Web crawler***, ***Data science***, ***Software engineer***, Fuzing, Graph network
+- Blockchain skills: **Fabric**, Ethereum
+- Mathematical base: Formal apporach, Compute theory, **Logic**, **Algorithm**, Discrete mathematics
+- Other skills: ***Network development***, ***Debug and Reverse***, ***Cryptography***
 
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
 
