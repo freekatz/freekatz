@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - Website: [1uvu.com](https://1uvu.com)
 - E-mail：[zjh98@vip.qq.com](mailto://zjh98@vip.qq.com)
-- QQ: 2016969619
+- QQ: [2016969619](http://wpa.qq.com/msgrd?v=3&uin=2016969619&site=qq&menu=yes)
 - Wechat: 1uvu_zhang
 
 <br>
