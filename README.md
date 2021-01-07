@@ -42,6 +42,10 @@ Here are some ideas to get you started:
   And now focus on Smart Contract Faults, including Contract **Security** and **Fault-Tolerance**.
   </p>
  </div>
+ 
+ 
+![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
+
 <!--
 ### Skill tree：
 > ***_is mastered***, **_is learning** and the others is to learn
@@ -52,6 +56,3 @@ Here are some ideas to get you started:
 - Other skills: ***Network development***, ***Debug and Reverse***, ***Cryptography***
 
 -->
-
-![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
-
