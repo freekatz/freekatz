@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   And now focus on Smart Contract Faults, including Contract **Security** and **Fault-Tolerance**.
   </p>
  </div>
-
+<!--
 ### Skill tree：
 > ***_is mastered***, **_is learning** and the others is to learn
 - Language: **Golang**, **Node**, **Rust**, Solidity, ***Python***, ***Java***, ***C***
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - Blockchain skills: **Fabric**, Ethereum
 - Mathematical base: Formal apporach, Compute theory, **Logic**, **Algorithm**, Discrete mathematics
 - Other skills: ***Network development***, ***Debug and Reverse***, ***Cryptography***
+
+-->
 
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
 
