@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <p>
   Graduated in Information Security，programming lover，in Blockchain technology and its research.
 
-  And now focus on Smart Contract Faults, including Contract **Security** and **Fault-Tolerance**.
+  And now focus on Smart Contract Faults, including Smart Contract **Security** and **Fault-Tolerance**.
   </p>
  </div>
  
