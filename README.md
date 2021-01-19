@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <h3>
-  Hello, I'm ZJH, I Luv U. 🤘
+  Hey, I'm ZJH. 🤘
   </h3>
   <p>
-  Graduated in Information Security from Chongqing University，a programming lover，in Blockchain technology and its research.
+  Graduated in Information Security，a programming lover，in Blockchain technology and its research.
 
   And now focus on Smart Contract Faults, including Smart Contract **Security** and **Fault-Tolerance**.
   </p>
