@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+-->
+Hi there 👋
+<!--
 <p align="center">
   <img align="center" src="https://github.com/1uvu/1uvu/raw/master/developer.gif"/>
 </p>
 
 --- 
--->
 
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -46,7 +46,6 @@ Here are some ideas to get you started:
  
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
 
-<!--
 ### Skill tree：
 > ***_is mastered***, **_is learning** and the others is to learn
 - Language: **Golang**, **Node**, **Rust**, Solidity, ***Python***, ***Java***, ***C***
