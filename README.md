@@ -20,9 +20,6 @@ Hi there 👋
 
 --- 
 -->
-<p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-</p>
 
 ### About me
 - 🔭 I’m currently working on blockchain: hyperledger fabric, ipfs, etc.
@@ -30,4 +27,16 @@ Hi there 👋
 - 💬 Ask me about anything. 😄
  
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
+
+
+<p align="right">
+  <img align="left" src="https://stats.justsong.cn/api/zhihu?username=zjh567" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uvu&layout=compact&hide_border=true&langs_count=10" />
+</p>
+
+
+<p align="left">
+  <img align="left" src="https://stats.justsong.cn/api/leetcode?username=luvu&cn=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=1uvu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
 
