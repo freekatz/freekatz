@@ -26,7 +26,7 @@ Hi there 👋
 </p>
 
 ### About me
-- 🔭 I’m currently working on blockchain: hyperledger fabric, ipfs, etc.
+- 🔭 I’m currently working on blockchain: zk-SNARKs, hyperledger fabric, ipfs, etc.
 - 🌱 I’m currently learning golang, database, distributed system
 - 💬 Ask me about anything. 😄
  
