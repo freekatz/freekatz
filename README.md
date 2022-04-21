@@ -35,7 +35,7 @@ Hi there 👋
 
 <p align="right">
   <img align="left" src="https://stats.justsong.cn/api/zhihu?username=zjh567" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uvu&layout=compact&langs_count=10" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uvu&layout=compact&langs_count=5" /> -->
 </p>
 
 
