@@ -27,7 +27,7 @@ Hi there 👋
 
 ### About me
 - 🔭 I’m currently researching on blockchain: bitcoin, ethereum, hyperledger fabric, etc.
-- 🌱 I’m currently working database, golang, distributed system, solidity, etc.
+- 🌱 I’m currently working on database, nosql, golang, distributed system, solidity, etc.
 - 💬 Ask me about anything. 😄
  
 ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
