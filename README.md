@@ -5,14 +5,14 @@ Hi there 👋
 </p>
 
 ### About me
-- 🔭 I’m currently focus on ai research, llm, vector database, golang, and rust.
+- 🔭 I'm currently focusing on AI research, LLM, vector database, golang, and rust.
 - 📫 How to reach me: katz@mtxai.com
 
 > freedom
 
 ### Full stack
 
-| Stack          | Having Badges                                                |
+| Stack          | Badges                                                |
 | -------------- | ------------------------------------------------------------ |
 | Programming        | ![C](https://img.shields.io/badge/c-%2300599c.svg?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <img src="https://img.shields.io/badge/go-%2300add8.svg?logo=go&logoColor=white&style=for-the-badge" alt="Go" /> <img src="https://img.shields.io/badge/java-%23ed8b00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" /> |
 | AI Research    | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)<br/>![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) |
