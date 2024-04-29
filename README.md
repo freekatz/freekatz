@@ -6,7 +6,7 @@ Hi there 👋
 
 ### About me
 - 🔭 I'm currently focusing on AI research, LLM, vector database, golang, and rust.
-- 📫 How to reach me: katz@mtxai.com
+- 📫 How to reach me: katz@mtxai.io
 
 > freedom
 
